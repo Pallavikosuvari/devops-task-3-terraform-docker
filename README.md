@@ -19,14 +19,14 @@ This project uses Terraform to provision [an EC2 instance / your resource] and i
 ## Screenshots
 
 ### Nginx running in the browser
-![nginx](<1-nginx- browser.png>)
+![nginx](screenshots/1-nginx-browser.png)
 
 
 ### Terraform state
-![State](2-terraform-state.png)
+![State](screenshots/2-terraform-state.png)
 
 ### Terraform destroy
-![Destroy](3-terraform-destroy.png)
+![Destroy](screenshots/3-terraform-destroy.png)
 
 ## Key Learnings
 - Infrastructure as Code basics and the Terraform lifecycle
